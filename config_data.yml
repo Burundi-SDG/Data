@@ -43,8 +43,8 @@ inputs:
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
   - class: InputSdmxMl_Structure
-    source: https://bi.sdmx.afdb.org/ns-ws/rest/dataflow/BI1/DF_SDG_BI1/1.0/?detail=Full&references=Descendants
-    dsd: https://bi.sdmx.afdb.org/ns-ws/rest/data/BI1,DF_SDG_BI1,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    source: https://bi.sdmx.afdb.org/ns-ws/rest/data/BI1,DF_SDG_BI1,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    dsd: https://bi.sdmx.afdb.org/ns-ws/rest/dataflow/BI1/DF_SDG_BI1/1.0/?detail=Full&references=Descendants
     dimension_map:
       REF_AREA|BI: ''
     drop_dimensions:
@@ -89,7 +89,7 @@ translations:
   - class: TranslationInputYaml
     source: translations
   - class: TranslationInputSdmx
-    source: https://bi.sdmx.afdb.org/ns-ws/rest/data/BI1,DF_SDG_BI1,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    source: https://bi.sdmx.afdb.org/ns-ws/rest/dataflow/BI1/DF_SDG_BI1/1.0/?detail=Full&references=Descendants
     request_params:
       headers:
         User-Agent: Open-SDG-Build-1
