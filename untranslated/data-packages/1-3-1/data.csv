@@ -1,1 +1,30 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,Value
+2016,A,0,"MSNASDPHG, Rapport annuel , Administrative",SI_COV_BENFTS,,,,PT,1.14
+2017,A,0,"MSNASDPHG, Rapport annuel , Administrative",SI_COV_BENFTS,,,,PT,0.84
+2018,A,0,"MSNASDPHG, Rapport annuel , Administrative",SI_COV_BENFTS,,,,PT,0.8
+2019,A,0,"MSNASDPHG, Rapport annuel , Administrative",SI_COV_BENFTS,,,,PT,0.8
+2020,A,0,"MSNASDPHG, Rapport annuel , Administrative",SI_COV_BENFTS,,,,PT,0.6
+2020,A,0,"MSNASDPHG, Rapport annuel , Administrative",SI_COV_BENFTS,,,R,PT,0.5
+2020,A,0,"MSNASDPHG, Rapport annuel , Administrative",SI_COV_BENFTS,,,U,PT,1.7
+2020,A,0,"MSNASDPHG, Rapport annuel , Administrative",SI_COV_BENFTS,,F,,PT,0.7
+2020,A,0,"MSNASDPHG, Rapport annuel , Administrative",SI_COV_BENFTS,,M,,PT,0.6
+2012,A,0,"MSNASDPHG,  Annuaire statistique du MSNASDPHG, Administrative",SI_COV_PENSN,,,,PT,4.8
+2016,A,0,"MSNASDPHG,  Annuaire statistique du MSNASDPHG, Administrative",SI_COV_PENSN,,,,PT,7.8
+2017,A,0,"MSNASDPHG,  Annuaire statistique du MSNASDPHG, Administrative",SI_COV_PENSN,,,,PT,8.0
+2018,A,0,"MSNASDPHG,  Annuaire statistique du MSNASDPHG, Administrative",SI_COV_PENSN,,,,PT,8.6
+2019,A,0,"MSNASDPHG,  Annuaire statistique du MSNASDPHG, Administrative",SI_COV_PENSN,,,,PT,8.4
+2020,A,0,"MSNASDPHG,  Annuaire statistique du MSNASDPHG, Administrative",SI_COV_PENSN,,,,PT,13.4
+2021,A,0,"MSNASDPHG,  Annuaire statistique du MSNASDPHG, Administrative",SI_COV_PENSN,,,,PT,14.3
+2023,A,0,"MSNASDPHG,  Annuaire statistique du MSNASDPHG, Administrative",SI_COV_PENSN,,,,PT,5.2
+2012,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,,,PT,19.1
+2013,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,,,PT,40.8
+2014,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,,,PT,22.9
+2015,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,,,PT,69.1
+2016,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,,,PT,72.2
+2020,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,,,PT,23.9
+2021,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,,,PT,23.9
+2023,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,,,PT,33.0
+2020,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,,R,PT,21.6
+2020,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,,U,PT,6.1
+2020,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,F,,PT,20.4
+2020,A,0,"MSNASDPHG, SEP/CNPS, Rapport sur la revue semestrielle, Administrative",SI_COV_SOCINS,,M,,PT,19.7
